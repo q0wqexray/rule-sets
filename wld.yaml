@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,mail.ru
   - DOMAIN-SUFFIX,max.ru
   - DOMAIN-SUFFIX,mradx.net
+  - DOMAIN-SUFFIX,mts.ru
   - DOMAIN-SUFFIX,ofd.ru
   - DOMAIN-SUFFIX,ok.ru
   - DOMAIN-SUFFIX,okcdn.ru
